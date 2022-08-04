@@ -13,7 +13,7 @@ public interface ServiceI {
 	
 	public Optional<Student> getStudentById(Student student);
 	
-	public List<Student> getAllStudent(Student student);
+	public List<Student> getAllStudent();
 	
 	
 	
